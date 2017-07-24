@@ -415,7 +415,6 @@ return array(
     'post'                   => 'whois.dotpostregistry.net',
     'pr'                     => 'whois.nic.pr',
     'press'                  => 'whois.centralnic.com',
-    'pro'                    => 'whois.dotproregistry.net',
     'productions'            => 'whois.donuts.co',
     'properties'             => 'whois.donuts.co',
     'pt'                     => 'whois.dns.pt',
